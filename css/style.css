@@ -17,3 +17,15 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#header{
+    background: #33A;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em
+} 
+
+#post{
+    padding: 1em;
+}
